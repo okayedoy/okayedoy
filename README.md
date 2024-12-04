@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @okayedoy
 - 👀 I’m interested in ... Python, JavaScript, C, C#
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on ... urhg
+- 📫 How to reach me ... you don't 
+- 😄 Pronouns: ... he/him/
+- ⚡ Fun fact: ... im really really stupid
 
 <!---
 okayedoy/okayedoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
